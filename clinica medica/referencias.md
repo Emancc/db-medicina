@@ -57,3 +57,4 @@
 >Índices: Para mejorar el rendimiento de las consultas, considera la creación de índices en las columnas que se utilizan con frecuencia en las búsquedas (ej. PacienteID en la tabla Citas).
 
 >Normalización: Este diseño busca un buen nivel de normalización para minimizar la redundancia de datos y mejorar la integridad.
+un cambio
